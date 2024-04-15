@@ -1,5 +1,5 @@
 # CAC Tutorial
-This document is meant to serve as a quick introduction to the Cornell CAC cloud computing resources. 
+This document is meant to serve as a quick introduction to the Cornell CAC cloud computing resources. Full document can be accessed [here](https://github.com/jxc0229/Cornell_cac_tutorial/blob/main/CAC_tutorial.pdf).
 To access the dashboard: https://redcloud.cac.cornell.edu
 
 Some useful links:
